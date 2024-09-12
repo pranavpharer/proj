@@ -1,0 +1,119 @@
+/var/spool/slurmd/job24129410/slurm_script: line 17: myenv/bin/activate: No such file or directory
+/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/bitsandbytes/cuda_setup/main.py:183: UserWarning: Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+
+  warn(msg)
+/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/bitsandbytes/cuda_setup/main.py:183: UserWarning: /opt/bwhpc/common/devel/python/3.11.7_intel_2021.4.0/lib64:/software/all/toolkit/Intel_OneAPI/compiler/2021.4.0/linux/compiler/lib/intel64_lin:/opt/bwhpc/common/devel/cuda/12.4/lib64 did not contain ['libcudart.so', 'libcudart.so.11.0', 'libcudart.so.12.0', 'libcudart.so.12.1', 'libcudart.so.12.2'] as expected! Searching further paths...
+  warn(msg)
+False
+
+===================================BUG REPORT===================================
+================================================================================
+The following directories listed in your path were found to be non-existent: {PosixPath('/opt/bwhpc/common/devel/python/3.11.7_intel_2021.4.0/lib/python3.11/site-packages/bin'), PosixPath('1;/software/all/toolkit/Intel_OneAPI/compiler/2021.4.0/linux/bin/intel64'), PosixPath('1;/home/kn/kn_kn/kn_pop542099/.local/bin'), PosixPath('1;/opt/bwhpc/common/devel/python/3.11.7_intel_2021.4.0/python_gnu_packages/bin'), PosixPath('1;/usr/share/Modules/bin'), PosixPath('1;/opt/bwhpc/common/devel/cuda/12.4/bin'), PosixPath('1;/home/kn/kn_kn/kn_pop542099/.pyenv/bin'), PosixPath('1;/usr/bin'), PosixPath('3;/pfs/data5/home/kn/kn_kn/kn_pop542099/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/bin/remote-cli'), PosixPath('1;/usr/local/bin'), PosixPath('1'), PosixPath('1;/home/kn/kn_kn/kn_pop542099/bin'), PosixPath('1;/usr/sbin'), PosixPath('6;/software/all/bin'), PosixPath('1;/opt/bwhpc/common/devel/python/3.11.7_intel_2021.4.0/bin'), PosixPath('1;/usr/local/sbin')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/home/kn/kn_kn/kn_pop542099/.pyenv')}
+The following directories listed in your path were found to be non-existent: {PosixPath('1')}
+The following directories listed in your path were found to be non-existent: {PosixPath('1;/software/all/toolkit/Intel_OneAPI/compiler/2021.4.0/linux/compiler/lib/intel64_lin'), PosixPath('1;/opt/bwhpc/common/devel/cuda/12.4/lib64'), PosixPath('1')}
+The following directories listed in your path were found to be non-existent: {PosixPath('1')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/opt/bwhpc/common/devel/python/3.11.7_intel_2021.4.0/python_gnu_packages/lib/python3.11/site-packages'), PosixPath('1')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/opt/bwhpc/common/devel/cuda/12.4/doc/man')}
+The following directories listed in your path were found to be non-existent: {PosixPath('1;/opt/bwhpc/common/modulefiles/Core'), PosixPath('1;/opt/bwhpc/kn/modulefiles'), PosixPath('1')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/opt/bwhpc/common/devel/python/3.11.7_intel_2021.4.0/python_gnu_packages/share/jupyter')}
+The following directories listed in your path were found to be non-existent: {PosixPath('compiler/intel')}
+The following directories listed in your path were found to be non-existent: {PosixPath('1;/opt/bwhpc/common/devel/cuda/12.4/lib64'), PosixPath('1')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/run/user/970272/vscode-ipc-ca894dcd-bbf6-4b04-817d-e1e495ad4934.sock')}
+The following directories listed in your path were found to be non-existent: {PosixPath('devel/cuda/12.4'), PosixPath('devel/python/3.11.7_intel_2021.4.0'), PosixPath('compiler/intel/2021.4.0')}
+The following directories listed in your path were found to be non-existent: {PosixPath('1;/software/all/toolkit/Intel_OneAPI/compiler/2021.4.0/documentation/en/man/common'), PosixPath('1;/opt/lmod/lmod/share/man'), PosixPath('1;/opt/bwhpc/common/devel/cuda/12.4/doc/man'), PosixPath('1')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/opt/bwhpc/common/devel/cuda/12.4/doc')}
+The following directories listed in your path were found to be non-existent: {PosixPath('1')}
+The following directories listed in your path were found to be non-existent: {PosixPath('compiler/intel')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/lsdf')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/opt/bwhpc/common/devel/python/3.11.7_intel_2021.4.0/python_gnu_packages/lib/python3.11/site-packages')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/run/user/970272/vscode-git-4b4d2abf04.sock')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/opt/bwhpc/common/devel/cuda/12.4/doc/man')}
+The following directories listed in your path were found to be non-existent: {PosixPath('1')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/opt/bwhpc/common/devel/python/3.11.7_intel_2021.4.0/python_gnu_packages/share/jupyter'), PosixPath('1')}
+The following directories listed in your path were found to be non-existent: {PosixPath('2')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/opt/modulefiles')}
+The following directories listed in your path were found to be non-existent: {PosixPath('/etc/lmod/?.lua;;')}
+The following directories listed in your path were found to be non-existent: {PosixPath('() {  ( alias;\n eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@\n}')}
+The following directories listed in your path were found to be non-existent: {PosixPath('() {  eval $(/opt/bwhpc/common/admin/modules/module-wrapper/modulecmd bash $*)\n}')}
+The following directories listed in your path were found to be non-existent: {PosixPath("-}${_mlv}='`eval 'echo ${'$_mlrv'"), PosixPath('-};\n do\n if [ "${_mlv}" = "${_mlv##*[!A-Za-z0-9_]}" -a "${_mlv}" = "${_mlv#[0-9]}" ]; then\n if [ -n "`eval \'echo ${\'$_mlv\'+x}\'`" ]; then\n _mlre="${_mlre'), PosixPath('() {  unset _mlshdbg;\n if [ "${MODULES_SILENT_SHELL_DEBUG'), PosixPath('-}\'`\' ";\n fi;\n done;\n if [ -n "${_mlre'), PosixPath('-}" ]; then\n eval `eval ${_mlre} /usr/bin/tclsh /usr/share/Modules/libexec/modulecmd.tcl bash \'"$@"\'`;\n else\n eval `/usr/bin/tclsh /usr/share/Modules/libexec/modulecmd.tcl bash "$@"`;\n fi;\n _mlstatus=$?;\n if [ -n "${_mlIFS+x}" ]; then\n IFS=$_mlIFS;\n else\n unset IFS;\n fi;\n unset _mlre _mlv _mlrv _mlIFS;\n if [ -n "${_mlshdbg'), PosixPath('-}" ]; then\n set -$_mlshdbg;\n fi;\n unset _mlshdbg;\n return $_mlstatus\n}'), PosixPath('-}${_mlv}_modquar=\'`eval \'echo ${\'$_mlv\'}\'`\' ";\n fi;\n _mlrv="MODULES_RUNENV_${_mlv}";\n _mlre="${_mlre'), PosixPath('-0}" = \'1\' ]; then\n case "$-" in \n *v*x*)\n set +vx;\n _mlshdbg=\'vx\'\n ;;\n *v*)\n set +v;\n _mlshdbg=\'v\'\n ;;\n *x*)\n set +x;\n _mlshdbg=\'x\'\n ;;\n *)\n _mlshdbg=\'\'\n ;;\n esac;\n fi;\n unset _mlre _mlIFS;\n if [ -n "${IFS+x}" ]; then\n _mlIFS=$IFS;\n fi;\n IFS=\' \';\n for _mlv in ${MODULES_RUN_QUARANTINE')}
+The following directories listed in your path were found to be non-existent: {PosixPath('-0}" = \'1\' ]; then\n typeset swname=\'main\';\n if [ -e /usr/share/Modules/libexec/modulecmd.tcl ]; then\n typeset swfound=0;\n unset MODULES_USE_COMPAT_VERSION;\n fi;\n else\n typeset swname=\'compatibility\';\n if [ -e /usr/share/Modules/libexec/modulecmd-compat ]; then\n typeset swfound=0;\n MODULES_USE_COMPAT_VERSION=1;\n export MODULES_USE_COMPAT_VERSION;\n fi;\n fi;\n if [ $swfound -eq 0 ]; then\n echo "Switching to Modules $swname version";\n source /usr/share/Modules/init/bash;\n else\n echo "Cannot switch to Modules $swname version, command not found";\n return 1;\n fi\n}'), PosixPath('() {  typeset swfound=1;\n if [ "${MODULES_USE_COMPAT_VERSION')}
+The following directories listed in your path were found to be non-existent: {PosixPath('() {  if [ "$1" = "load" -o "$1" = "unload" ]; then\n eval "module $@";\n else\n /usr/bin/scl "$@";\n fi\n}')}
+The following directories listed in your path were found to be non-existent: {PosixPath('() {  eval "$($LMOD_DIR/ml_cmd "$@")"\n}')}
+DEBUG: Possible options found for libcudart.so: {PosixPath('/opt/bwhpc/common/devel/cuda/12.4/lib64/libcudart.so')}
+CUDA SETUP: PyTorch settings found: CUDA_VERSION=124, Highest Compute Capability: 9.0.
+CUDA SETUP: To manually override the PyTorch CUDA version please see:https://github.com/TimDettmers/bitsandbytes/blob/main/how_to_use_nonpytorch_cuda.md
+CUDA SETUP: Required library version not found: libbitsandbytes_cuda124.so. Maybe you need to compile it from source?
+CUDA SETUP: Defaulting to libbitsandbytes_cpu.so...
+
+================================================ERROR=====================================
+CUDA SETUP: CUDA detection failed! Possible reasons:
+1. You need to manually override the PyTorch CUDA version. Please see: "https://github.com/TimDettmers/bitsandbytes/blob/main/how_to_use_nonpytorch_cuda.md
+2. CUDA driver not installed
+3. CUDA not installed
+4. You have multiple conflicting CUDA libraries
+5. Required library not pre-compiled for this bitsandbytes release!
+CUDA SETUP: If you compiled from source, try again with `make CUDA_VERSION=DETECTED_CUDA_VERSION` for example, `make CUDA_VERSION=118`.
+CUDA SETUP: The CUDA version for the compile might depend on your conda install. Inspect CUDA version via `conda list | grep cuda`.
+================================================================================
+
+CUDA SETUP: Something unexpected happened. Please compile from source:
+git clone https://github.com/TimDettmers/bitsandbytes.git
+cd bitsandbytes
+CUDA_VERSION=124
+python setup.py install
+CUDA SETUP: Setup Failed!
+Traceback (most recent call last):
+  File "/pfs/data5/home/kn/kn_kn/kn_pop542099/exe scripts/code/prog13.py", line 9, in <module>
+    from peft import LoraConfig,get_peft_mode#, PeftModel,AutoPeftModelForCausalLM
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/peft/__init__.py", line 22, in <module>
+    from .auto import (
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/peft/auto.py", line 31, in <module>
+    from .config import PeftConfig
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/peft/config.py", line 23, in <module>
+    from .utils import CONFIG_NAME, PeftType, TaskType
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/peft/utils/__init__.py", line 21, in <module>
+    from .loftq_utils import replace_lora_weights_loftq
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/peft/utils/loftq_utils.py", line 35, in <module>
+    import bitsandbytes as bnb
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/bitsandbytes/__init__.py", line 6, in <module>
+    from . import cuda_setup, research, utils
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/bitsandbytes/research/__init__.py", line 2, in <module>
+    from .autograd._functions import (
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/bitsandbytes/research/autograd/_functions.py", line 8, in <module>
+    from bitsandbytes.autograd._functions import GlobalOutlierPooler, MatmulLtState
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/bitsandbytes/autograd/__init__.py", line 1, in <module>
+    from ._functions import get_inverse_transform_indices, undo_layout
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/bitsandbytes/autograd/_functions.py", line 10, in <module>
+    import bitsandbytes.functional as F
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/bitsandbytes/functional.py", line 17, in <module>
+    from .cextension import COMPILED_WITH_CUDA, lib
+  File "/home/kn/kn_kn/kn_pop542099/.local/lib/python3.11/site-packages/bitsandbytes/cextension.py", line 17, in <module>
+    raise RuntimeError('''
+RuntimeError: 
+        CUDA Setup failed despite GPU being available. Please run the following command to get more information:
+
+        python -m bitsandbytes
+
+        Inspect the output of the command and see if you can locate CUDA libraries. You might need to add them
+        to your LD_LIBRARY_PATH. If you suspect a bug, please take the information from python -m bitsandbytes
+        and open an issue at: https://github.com/TimDettmers/bitsandbytes/issues
+
+============================= JOB FEEDBACK =============================
+
+NodeName=uc2n[906-908,915-916]
+Job ID: 24129410
+Cluster: uc2
+User/Group: kn_pop542099/kn_kn
+State: FAILED (exit code 1)
+Nodes: 5
+Cores per node: 64
+CPU Utilized: 00:00:07
+CPU Efficiency: 0.02% of 12:10:40 core-walltime
+Job Wall-clock time: 00:02:17
+Memory Utilized: 425.27 MB
+Memory Efficiency: 0.03% of 1.25 TB
